@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "name": "forelesning-02-kartbasertewebs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinbezos/forelesning-02-kartbasertewebs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kevinbezos/forelesning-02-kartbasertewebs/issues"
+  },
+  "homepage": "https://github.com/kevinbezos/forelesning-02-kartbasertewebs#readme"
+}

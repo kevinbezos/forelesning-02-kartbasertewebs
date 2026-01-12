@@ -1,6 +1,9 @@
 {
   "devDependencies": {
+    "@types/react": "^19.2.8",
+    "@types/react-dom": "^19.2.3",
     "prettier": "^3.7.4",
+    "typescript": "^5.9.3",
     "vite": "^7.3.1"
   },
   "dependencies": {
@@ -11,6 +14,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "tsc --noEmit && prettier --check .",
     "dev": "vite"
@@ -22,7 +26,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/kevinbezos/forelesning-02-kartbasertewebs/issues"
   },
